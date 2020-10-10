@@ -1,0 +1,8 @@
+*
+!*.yaml
+!.gitignore
+!*.md
+!*.sh
+!*.js*
+!docker-compose.yml
+secrets.yaml
