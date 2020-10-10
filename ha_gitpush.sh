@@ -1,4 +1,4 @@
 cd /home/nuc/home_automation
 git add .
-git commit -m "config files on `date +’%d-%m-%Y %H:%M:%S’`"
+git commit -m "config files on `date +"%d-%m-%Y %H:%M:%S"`"
 git push -u origin master
