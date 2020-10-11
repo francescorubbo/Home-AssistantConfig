@@ -6,6 +6,9 @@ default_config:
 tts:
   - platform: google_translate
 
+shell_command:
+   backup_config: "/config/ha_gitpush.sh"
+
 group: !include groups.yaml
 automation: !include automations.yaml
 script: !include scripts.yaml
