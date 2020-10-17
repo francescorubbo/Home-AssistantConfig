@@ -46,3 +46,12 @@ group: !include groups.yaml
 automation: !include automations.yaml
 script: !include scripts.yaml
 scene: !include scenes.yaml
+
+lovelace:
+  mode: storage
+  dashboards:
+    lovelace-yaml:
+      mode: yaml
+      title: YAML
+      icon: mdi:script
+      filename: lovelace.yaml
