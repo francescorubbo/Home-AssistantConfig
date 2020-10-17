@@ -1,3 +1,39 @@
+homeassistant:
+  name: Home
+  latitude: !secret latitude
+  longitude: !secret longitude
+  elevation: !secret elevation
+  unit_system: metric
+  time_zone: !secret time_zone
+  auth_mfa_modules:
+    - type: totp
+
+duckdns:
+  domain: !secret duckdns_domain
+  access_token: !secret duckdns_token
+
+http:
+#  ssl_certificate: !secret ssl_certificate
+#  ssl_key: !secret ssl_key
+  use_x_forwarded_for: true
+  trusted_proxies: 127.0.0.1
+
+sensor:
+  - platform: command_line
+    name: SSL cert expiry
+    unit_of_measurement: days
+    scan_interval: 10800
+    command: !secret cert_check
+
+dyson:
+  username: !secret dyson_user
+  password: !secret dyson_passwd
+  language: US
+  devices:
+    - device_id: !secret dyson_fan_id
+      device_ip: !secret dyson_fan_ip
+
+mobile_app:
 
 # Configure a default setup of Home Assistant (frontend, api, etc)
 default_config:
@@ -5,9 +41,6 @@ default_config:
 # Text to speech
 tts:
   - platform: google_translate
-
-shell_command:
-   backup_config: "/config/ha_gitpush.sh"
 
 group: !include groups.yaml
 automation: !include automations.yaml
