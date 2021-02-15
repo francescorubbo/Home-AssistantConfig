@@ -1,0 +1,70 @@
+
+- cal_id: m2tgtmhvd883ca4aa315j2cesg@group.calendar.google.com
+  entities:
+  - device_id: the_plan
+    ignore_availability: true
+    name: The Plan
+    track: true
+
+- cal_id: ja3r8rs9onnmtdgto26h0mtag0@group.calendar.google.com
+  entities:
+  - device_id: an_indian_a_russian_and_a_korean_american_walk_in_an_italian_bar
+    ignore_availability: true
+    name: An Indian, a Russian and a Korean-American walk in an Italian bar...
+    track: true
+
+- cal_id: rubbo.francesco@gmail.com
+  entities:
+  - device_id: rubbo_francesco_gmail_com
+    ignore_availability: true
+    name: rubbo.francesco@gmail.com
+    track: true
+
+- cal_id: family17896568626689434089@group.calendar.google.com
+  entities:
+  - device_id: family
+    ignore_availability: true
+    name: Family
+    track: true
+
+- cal_id: en.usa#holiday@group.v.calendar.google.com
+  entities:
+  - device_id: holidays_in_united_states
+    ignore_availability: true
+    name: Holidays in United States
+    track: true
+
+- cal_id: rqadv1g5t6rj55ffoa742h77mkvmueve@import.calendar.google.com
+  entities:
+  - device_id: 2021_spring_women_s_volleyball_schedule_gostanford_com
+    ignore_availability: true
+    name: 2021 Spring Women's Volleyball Schedule - gostanford.com
+    track: true
+
+- cal_id: m5cus0i1fbpkfi3cb1iou0982k@group.calendar.google.com
+  entities:
+  - device_id: stanford_university_women_s_soccer
+    ignore_availability: true
+    name: Stanford University Women's Soccer
+    track: true
+
+- cal_id: addressbook#contacts@group.v.calendar.google.com
+  entities:
+  - device_id: birthdays
+    ignore_availability: true
+    name: Birthdays
+    track: true
+
+- cal_id: lyudashemyakina@gmail.com
+  entities:
+  - device_id: lyudashemyakina_gmail_com
+    ignore_availability: true
+    name: lyudashemyakina@gmail.com
+    track: true
+
+- cal_id: ma77emhd1ag2pv8a2sv8rvg1jh40ssnj@import.calendar.google.com
+  entities:
+  - device_id: women_s_soccer_gostanford_com
+    ignore_availability: true
+    name: Women's Soccer - gostanford.com
+    track: true

@@ -25,13 +25,17 @@ sensor:
     scan_interval: 10800
     command: !secret cert_check
 
-dyson:
-  username: !secret dyson_user
-  password: !secret dyson_passwd
-  language: US
-  devices:
-    - device_id: !secret dyson_fan_id
-      device_ip: !secret dyson_fan_ip
+#dyson:
+#  username: !secret dyson_user
+#  password: !secret dyson_passwd
+#  language: US
+#  devices:
+#    - device_id: !secret dyson_fan_id
+#      device_ip: !secret dyson_fan_ip
+
+google:
+  client_id: !secret google_client_id
+  client_secret: !secret google_client_secret
 
 mobile_app:
 
