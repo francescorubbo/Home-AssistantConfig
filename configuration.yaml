@@ -18,12 +18,15 @@ http:
   use_x_forwarded_for: true
   trusted_proxies: 127.0.0.1
 
+#sensor:
+#  - platform: command_line
+#    name: SSL cert expiry
+#    unit_of_measurement: days
+#    scan_interval: 60
+#    command: !secret cert_check
+
 sensor:
-  - platform: command_line
-    name: SSL cert expiry
-    unit_of_measurement: days
-    scan_interval: 10800
-    command: !secret cert_check
+  - platform: version
 
 #dyson:
 #  username: !secret dyson_user

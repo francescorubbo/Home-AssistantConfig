@@ -1,6 +1,6 @@
 [
     {
-        "token": "a10f30c2241c88e7aa77d3b87cc9ddf4",
+        "token": "9860d2c2e7861932f6808344c67ab022",
         "username": "rubbo.francesco@gmail.com",
         "device": null
     },
@@ -26,44 +26,20 @@
                         "_isNew": true,
                         "unitType": "ductless",
                         "reportedCondition": {
-                            "more": {
-                                "power_on": true,
-                                "operation_mode_text": "Cool",
-                                "air_direction_text": "Auto",
-                                "fan_speed_text": "Auto"
-                            },
-                            "_created": 1622563552782,
-                            "power": 1,
-                            "operation_mode": 3,
-                            "fan_speed": 0,
-                            "air_direction": 0,
-                            "sp_heat": 22,
-                            "sp_cool": 25,
-                            "room_temp": 21.5,
-                            "status_display": {
-                                "filter": false,
-                                "standby": false,
-                                "hot_adjust": false,
-                                "defrost": false
-                            },
-                            "lastAdapterUpdated": "2021-06-01T16:05:52.782Z"
+                            "more": {},
+                            "_created": 1625955913376
                         },
                         "desiredConditionStack": [],
-                        "lastUpdate": 1622563271490,
-                        "_requestRescan": 1,
-                        "_isRespondingLocally": true,
-                        "optimalStart": false,
-                        "overrideSettings": {
-                            "dryMode": true,
-                            "heatMode": true,
-                            "ledDisabled": false
-                        },
+                        "lastUpdate": 1625955913376,
+                        "_requestRescan": 0,
+                        "_isRespondingLocally": null,
+                        "overrideSettings": {},
                         "forceCloudUpdates": false,
                         "errorHandler": {
                             "1": {
                                 "error2char": "A0",
                                 "error4char": "8000",
-                                "timestamp": 1621968969,
+                                "timestamp": 1623789240,
                                 "code": "8000",
                                 "text": "8000"
                             }
@@ -122,7 +98,7 @@
                             "status": {
                                 "outdoorTemp": 0,
                                 "outdoorHumid": null,
-                                "indoorHumid": 62
+                                "indoorHumid": 45
                             }
                         },
                         "acoilSettings": {
@@ -165,9 +141,9 @@
                                 "minRuntime": 20,
                                 "maxStandby": 180,
                                 "disable": "notset",
-                                "activeMode": "__ungettable",
-                                "durActive": "__ungettable",
-                                "durInactive": "__ungettable"
+                                "activeMode": null,
+                                "durActive": null,
+                                "durInactive": null
                             },
                             "priority": 1
                         },
@@ -184,7 +160,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:06:00.180Z"
+                                "lastUpdated": "2021-06-18T08:17:04.725Z"
                             },
                             "2": {
                                 "active": false,
@@ -198,7 +174,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:06:00.180Z"
+                                "lastUpdated": "2021-06-18T08:17:04.725Z"
                             },
                             "3": {
                                 "active": false,
@@ -212,7 +188,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:06:00.180Z"
+                                "lastUpdated": "2021-06-18T08:17:04.725Z"
                             },
                             "4": {
                                 "active": false,
@@ -226,7 +202,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:06:00.180Z"
+                                "lastUpdated": "2021-06-18T08:17:04.725Z"
                             },
                             "5": {
                                 "active": false,
@@ -240,7 +216,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:06:00.180Z"
+                                "lastUpdated": "2021-06-18T08:17:04.725Z"
                             },
                             "6": {
                                 "active": false,
@@ -254,7 +230,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:06:00.180Z"
+                                "lastUpdated": "2021-06-18T08:17:04.725Z"
                             },
                             "7": {
                                 "active": false,
@@ -268,7 +244,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:06:00.180Z"
+                                "lastUpdated": "2021-06-18T08:17:04.725Z"
                             },
                             "8": {
                                 "active": false,
@@ -282,7 +258,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:59.761Z"
+                                "lastUpdated": "2021-06-18T08:17:04.322Z"
                             },
                             "9": {
                                 "active": false,
@@ -296,7 +272,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:59.761Z"
+                                "lastUpdated": "2021-06-18T08:17:04.322Z"
                             },
                             "10": {
                                 "active": false,
@@ -310,7 +286,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:59.761Z"
+                                "lastUpdated": "2021-06-18T08:17:04.322Z"
                             },
                             "11": {
                                 "active": false,
@@ -324,7 +300,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:59.762Z"
+                                "lastUpdated": "2021-06-18T08:17:04.322Z"
                             },
                             "12": {
                                 "active": false,
@@ -338,7 +314,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:59.762Z"
+                                "lastUpdated": "2021-06-18T08:17:04.322Z"
                             },
                             "13": {
                                 "active": false,
@@ -352,7 +328,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:59.762Z"
+                                "lastUpdated": "2021-06-18T08:17:04.322Z"
                             },
                             "14": {
                                 "active": false,
@@ -366,7 +342,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:59.762Z"
+                                "lastUpdated": "2021-06-18T08:17:04.322Z"
                             },
                             "15": {
                                 "active": false,
@@ -380,7 +356,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:59.333Z"
+                                "lastUpdated": "2021-06-18T08:17:03.915Z"
                             },
                             "16": {
                                 "active": false,
@@ -394,7 +370,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:59.333Z"
+                                "lastUpdated": "2021-06-18T08:17:03.915Z"
                             },
                             "17": {
                                 "active": false,
@@ -408,7 +384,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:59.333Z"
+                                "lastUpdated": "2021-06-18T08:17:03.915Z"
                             },
                             "18": {
                                 "active": false,
@@ -422,7 +398,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:59.333Z"
+                                "lastUpdated": "2021-06-18T08:17:03.916Z"
                             },
                             "19": {
                                 "active": false,
@@ -436,7 +412,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:59.333Z"
+                                "lastUpdated": "2021-06-18T08:17:03.916Z"
                             },
                             "20": {
                                 "active": false,
@@ -450,7 +426,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:59.333Z"
+                                "lastUpdated": "2021-06-18T08:17:03.916Z"
                             },
                             "21": {
                                 "active": false,
@@ -464,7 +440,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:59.334Z"
+                                "lastUpdated": "2021-06-18T08:17:03.916Z"
                             },
                             "22": {
                                 "active": false,
@@ -478,7 +454,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:58.953Z"
+                                "lastUpdated": "2021-06-18T08:17:03.534Z"
                             },
                             "23": {
                                 "active": false,
@@ -492,7 +468,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:58.954Z"
+                                "lastUpdated": "2021-06-18T08:17:03.534Z"
                             },
                             "24": {
                                 "active": false,
@@ -506,7 +482,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:58.954Z"
+                                "lastUpdated": "2021-06-18T08:17:03.535Z"
                             },
                             "25": {
                                 "active": false,
@@ -520,7 +496,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:58.954Z"
+                                "lastUpdated": "2021-06-18T08:17:03.535Z"
                             },
                             "26": {
                                 "active": false,
@@ -534,7 +510,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:58.954Z"
+                                "lastUpdated": "2021-06-18T08:17:03.535Z"
                             },
                             "27": {
                                 "active": false,
@@ -548,7 +524,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:58.954Z"
+                                "lastUpdated": "2021-06-18T08:17:03.535Z"
                             },
                             "28": {
                                 "active": false,
@@ -562,7 +538,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:58.954Z"
+                                "lastUpdated": "2021-06-18T08:17:03.535Z"
                             }
                         },
                         "prohibits": {
@@ -585,11 +561,7 @@
                         "prohibitsChanged": 0,
                         "holdChanged": 1622502775127,
                         "hasElectricHeatingOption": false,
-                        "rssi": {
-                            "rssi": -51,
-                            "string": "Very strong",
-                            "image": "images/signal-verystrong-ondark-50x50.svg"
-                        },
+                        "rssi": {},
                         "ledDisabled": false,
                         "cryptoSerial": "01237a593f5a9f82ee",
                         "cryptoKeySet": "F",
@@ -656,8 +628,8 @@
                         },
                         "password": "tg+D32tPQnK/822FM2fKbIRELmi/Q8+OEW1dVuZh",
                         "sendDesiredConditionsPending": false,
-                        "sendDesiredConditionsTime": "2021-06-01T16:01:00.276Z",
-                        "lastAdapterUpdate": "2021-01-31 01:56:54.832916",
+                        "sendDesiredConditionsTime": "2021-06-11T04:28:29.921Z",
+                        "lastAdapterUpdate": "2021-06-13 04:43:06.486276",
                         "autoModeEnabled": true,
                         "systemChangeoverEnabled": false,
                         "firmwareVersion": "02.06.03",
@@ -683,7 +655,8 @@
                             "minimum_auto_temp": 19,
                             "minimum_cool_or_dry_temp": 19,
                             "minimum_heat_temp": 10
-                        }
+                        },
+                        "optimalStart": false
                     },
                     "9X34P008J100383F": {
                         "serial": "9X34P008J100383F",
@@ -693,42 +666,20 @@
                         "_isNew": true,
                         "unitType": "ductless",
                         "reportedCondition": {
-                            "more": {
-                                "power_on": false,
-                                "air_direction_text": "Auto",
-                                "fan_speed_text": "Quiet"
-                            },
-                            "_created": 1622563552795,
-                            "power": 0,
-                            "fan_speed": 1,
-                            "air_direction": 0,
-                            "sp_heat": 18,
-                            "sp_cool": 21,
-                            "room_temp": 21,
-                            "status_display": {
-                                "filter": false,
-                                "standby": false,
-                                "hot_adjust": false,
-                                "defrost": false
-                            },
-                            "lastAdapterUpdated": "2021-06-01T16:05:52.795Z"
+                            "more": {},
+                            "_created": 1625955913383
                         },
                         "desiredConditionStack": [],
-                        "lastUpdate": 1622563271497,
+                        "lastUpdate": 1625955913383,
                         "_requestRescan": 0,
-                        "_isRespondingLocally": true,
-                        "optimalStart": false,
-                        "overrideSettings": {
-                            "dryMode": true,
-                            "heatMode": true,
-                            "ledDisabled": false
-                        },
+                        "_isRespondingLocally": null,
+                        "overrideSettings": {},
                         "forceCloudUpdates": false,
                         "errorHandler": {
                             "1": {
                                 "error2char": "A0",
                                 "error4char": "8000",
-                                "timestamp": 1621968970,
+                                "timestamp": 1623789262,
                                 "code": "8000",
                                 "text": "8000"
                             }
@@ -830,9 +781,9 @@
                                 "minRuntime": 20,
                                 "maxStandby": 180,
                                 "disable": "notset",
-                                "activeMode": "__ungettable",
-                                "durActive": "__ungettable",
-                                "durInactive": "__ungettable"
+                                "activeMode": null,
+                                "durActive": null,
+                                "durInactive": null
                             },
                             "priority": 1
                         },
@@ -849,7 +800,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:06:00.646Z"
+                                "lastUpdated": "2021-06-18T08:17:04.515Z"
                             },
                             "2": {
                                 "active": false,
@@ -863,7 +814,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:06:00.646Z"
+                                "lastUpdated": "2021-06-18T08:17:04.515Z"
                             },
                             "3": {
                                 "active": false,
@@ -877,7 +828,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:06:00.646Z"
+                                "lastUpdated": "2021-06-18T08:17:04.515Z"
                             },
                             "4": {
                                 "active": false,
@@ -891,7 +842,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:06:00.646Z"
+                                "lastUpdated": "2021-06-18T08:17:04.515Z"
                             },
                             "5": {
                                 "active": false,
@@ -905,7 +856,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:06:00.646Z"
+                                "lastUpdated": "2021-06-18T08:17:04.515Z"
                             },
                             "6": {
                                 "active": false,
@@ -919,7 +870,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:06:00.646Z"
+                                "lastUpdated": "2021-06-18T08:17:04.515Z"
                             },
                             "7": {
                                 "active": false,
@@ -933,7 +884,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:06:00.646Z"
+                                "lastUpdated": "2021-06-18T08:17:04.515Z"
                             },
                             "8": {
                                 "active": false,
@@ -947,7 +898,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:06:00.165Z"
+                                "lastUpdated": "2021-06-18T08:17:04.154Z"
                             },
                             "9": {
                                 "active": false,
@@ -961,7 +912,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:06:00.166Z"
+                                "lastUpdated": "2021-06-18T08:17:04.154Z"
                             },
                             "10": {
                                 "active": false,
@@ -975,7 +926,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:06:00.166Z"
+                                "lastUpdated": "2021-06-18T08:17:04.154Z"
                             },
                             "11": {
                                 "active": false,
@@ -989,7 +940,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:06:00.166Z"
+                                "lastUpdated": "2021-06-18T08:17:04.154Z"
                             },
                             "12": {
                                 "active": false,
@@ -1003,7 +954,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:06:00.166Z"
+                                "lastUpdated": "2021-06-18T08:17:04.154Z"
                             },
                             "13": {
                                 "active": false,
@@ -1017,7 +968,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:06:00.166Z"
+                                "lastUpdated": "2021-06-18T08:17:04.154Z"
                             },
                             "14": {
                                 "active": false,
@@ -1031,7 +982,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:06:00.166Z"
+                                "lastUpdated": "2021-06-18T08:17:04.154Z"
                             },
                             "15": {
                                 "active": false,
@@ -1045,7 +996,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:59.756Z"
+                                "lastUpdated": "2021-06-18T08:17:03.767Z"
                             },
                             "16": {
                                 "active": false,
@@ -1059,7 +1010,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:59.756Z"
+                                "lastUpdated": "2021-06-18T08:17:03.768Z"
                             },
                             "17": {
                                 "active": false,
@@ -1073,7 +1024,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:59.756Z"
+                                "lastUpdated": "2021-06-18T08:17:03.768Z"
                             },
                             "18": {
                                 "active": false,
@@ -1087,7 +1038,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:59.756Z"
+                                "lastUpdated": "2021-06-18T08:17:03.768Z"
                             },
                             "19": {
                                 "active": false,
@@ -1101,7 +1052,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:59.756Z"
+                                "lastUpdated": "2021-06-18T08:17:03.768Z"
                             },
                             "20": {
                                 "active": false,
@@ -1115,7 +1066,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:59.756Z"
+                                "lastUpdated": "2021-06-18T08:17:03.768Z"
                             },
                             "21": {
                                 "active": false,
@@ -1129,7 +1080,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:59.756Z"
+                                "lastUpdated": "2021-06-18T08:17:03.771Z"
                             },
                             "22": {
                                 "active": false,
@@ -1143,7 +1094,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:59.344Z"
+                                "lastUpdated": "2021-06-18T08:17:03.388Z"
                             },
                             "23": {
                                 "active": false,
@@ -1157,7 +1108,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:59.344Z"
+                                "lastUpdated": "2021-06-18T08:17:03.388Z"
                             },
                             "24": {
                                 "active": false,
@@ -1171,7 +1122,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:59.344Z"
+                                "lastUpdated": "2021-06-18T08:17:03.388Z"
                             },
                             "25": {
                                 "active": false,
@@ -1185,7 +1136,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:59.344Z"
+                                "lastUpdated": "2021-06-18T08:17:03.388Z"
                             },
                             "26": {
                                 "active": false,
@@ -1199,7 +1150,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:59.344Z"
+                                "lastUpdated": "2021-06-18T08:17:03.388Z"
                             },
                             "27": {
                                 "active": false,
@@ -1213,7 +1164,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:59.344Z"
+                                "lastUpdated": "2021-06-18T08:17:03.388Z"
                             },
                             "28": {
                                 "active": false,
@@ -1227,7 +1178,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:59.344Z"
+                                "lastUpdated": "2021-06-18T08:17:03.388Z"
                             }
                         },
                         "prohibits": {
@@ -1250,11 +1201,7 @@
                         "prohibitsChanged": 0,
                         "holdChanged": 0,
                         "hasElectricHeatingOption": false,
-                        "rssi": {
-                            "rssi": -38,
-                            "string": "Very strong",
-                            "image": "images/signal-verystrong-ondark-50x50.svg"
-                        },
+                        "rssi": {},
                         "ledDisabled": false,
                         "cryptoSerial": "0123c257dd76d3a2ee",
                         "cryptoKeySet": "F",
@@ -1302,7 +1249,7 @@
                         "sendDesiredConditionsPending": false,
                         "sendDesiredConditionsTime": "2021-03-17T22:08:21.793Z",
                         "password": "f22K9GEeZoRV50nvkshHYYQekHIe2bOi5Ja29hZS",
-                        "lastAdapterUpdate": "2021-01-31 01:53:17.262941",
+                        "lastAdapterUpdate": "2021-06-13 04:39:43.631288",
                         "autoModeEnabled": true,
                         "systemChangeoverEnabled": false,
                         "firmwareVersion": "02.06.03",
@@ -1328,7 +1275,8 @@
                             "minimum_auto_temp": 16,
                             "minimum_cool_or_dry_temp": 16,
                             "minimum_heat_temp": 10
-                        }
+                        },
+                        "optimalStart": false
                     },
                     "9X34P008K100041F": {
                         "serial": "9X34P008K100041F",
@@ -1338,55 +1286,20 @@
                         "_isNew": true,
                         "unitType": "ductless",
                         "reportedCondition": {
-                            "more": {
-                                "power_on": true,
-                                "air_direction_text": "Auto",
-                                "fan_speed_text": "Quiet",
-                                "operation_mode_text": "Cool"
-                            },
-                            "_created": 1622563559404,
-                            "power": 1,
-                            "fan_speed": 1,
-                            "air_direction": 0,
-                            "sp_heat": 23,
-                            "sp_cool": 21,
-                            "room_temp": 21,
-                            "status_display": {
-                                "filter": false,
-                                "standby": false,
-                                "hot_adjust": false,
-                                "defrost": false
-                            },
-                            "lastAdapterUpdated": "2021-06-01T16:05:52.759Z",
-                            "operation_mode": 3
+                            "more": {},
+                            "_created": 1625955913385
                         },
-                        "desiredConditionStack": [
-                            {
-                                "more": {
-                                    "operation_mode_text": "Cool",
-                                    "power_on": true
-                                },
-                                "_created": 1622563559404,
-                                "power": 1,
-                                "operation_mode": 3,
-                                "sent": 1622563561792
-                            }
-                        ],
-                        "lastUpdate": 1622563271500,
+                        "desiredConditionStack": [],
+                        "lastUpdate": 1625955913385,
                         "_requestRescan": 0,
-                        "_isRespondingLocally": true,
-                        "optimalStart": false,
-                        "overrideSettings": {
-                            "dryMode": true,
-                            "heatMode": true,
-                            "ledDisabled": false
-                        },
+                        "_isRespondingLocally": null,
+                        "overrideSettings": {},
                         "forceCloudUpdates": false,
                         "errorHandler": {
                             "1": {
                                 "error2char": "A0",
                                 "error4char": "8000",
-                                "timestamp": 1621968611,
+                                "timestamp": 1623789279,
                                 "code": "8000",
                                 "text": "8000"
                             }
@@ -1488,9 +1401,9 @@
                                 "minRuntime": 20,
                                 "maxStandby": 180,
                                 "disable": "notset",
-                                "activeMode": "__ungettable",
-                                "durActive": "__ungettable",
-                                "durInactive": "__ungettable"
+                                "activeMode": null,
+                                "durActive": null,
+                                "durInactive": null
                             },
                             "priority": 1
                         },
@@ -1507,7 +1420,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:59.742Z"
+                                "lastUpdated": "2021-06-18T08:17:04.523Z"
                             },
                             "2": {
                                 "active": false,
@@ -1521,7 +1434,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:59.742Z"
+                                "lastUpdated": "2021-06-18T08:17:04.523Z"
                             },
                             "3": {
                                 "active": false,
@@ -1535,7 +1448,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:59.742Z"
+                                "lastUpdated": "2021-06-18T08:17:04.523Z"
                             },
                             "4": {
                                 "active": false,
@@ -1549,7 +1462,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:59.742Z"
+                                "lastUpdated": "2021-06-18T08:17:04.523Z"
                             },
                             "5": {
                                 "active": false,
@@ -1563,7 +1476,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:59.742Z"
+                                "lastUpdated": "2021-06-18T08:17:04.523Z"
                             },
                             "6": {
                                 "active": false,
@@ -1577,7 +1490,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:59.742Z"
+                                "lastUpdated": "2021-06-18T08:17:04.523Z"
                             },
                             "7": {
                                 "active": false,
@@ -1591,7 +1504,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:59.742Z"
+                                "lastUpdated": "2021-06-18T08:17:04.523Z"
                             },
                             "8": {
                                 "active": false,
@@ -1605,7 +1518,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:59.330Z"
+                                "lastUpdated": "2021-06-18T08:17:04.120Z"
                             },
                             "9": {
                                 "active": false,
@@ -1619,7 +1532,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:59.331Z"
+                                "lastUpdated": "2021-06-18T08:17:04.121Z"
                             },
                             "10": {
                                 "active": false,
@@ -1633,7 +1546,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:59.331Z"
+                                "lastUpdated": "2021-06-18T08:17:04.121Z"
                             },
                             "11": {
                                 "active": false,
@@ -1647,7 +1560,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:59.331Z"
+                                "lastUpdated": "2021-06-18T08:17:04.121Z"
                             },
                             "12": {
                                 "active": false,
@@ -1661,7 +1574,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:59.331Z"
+                                "lastUpdated": "2021-06-18T08:17:04.121Z"
                             },
                             "13": {
                                 "active": false,
@@ -1675,7 +1588,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:59.331Z"
+                                "lastUpdated": "2021-06-18T08:17:04.121Z"
                             },
                             "14": {
                                 "active": false,
@@ -1689,7 +1602,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:59.331Z"
+                                "lastUpdated": "2021-06-18T08:17:04.122Z"
                             },
                             "15": {
                                 "active": false,
@@ -1703,7 +1616,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:58.929Z"
+                                "lastUpdated": "2021-06-18T08:17:03.746Z"
                             },
                             "16": {
                                 "active": false,
@@ -1717,7 +1630,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:58.931Z"
+                                "lastUpdated": "2021-06-18T08:17:03.747Z"
                             },
                             "17": {
                                 "active": false,
@@ -1731,7 +1644,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:58.931Z"
+                                "lastUpdated": "2021-06-18T08:17:03.747Z"
                             },
                             "18": {
                                 "active": false,
@@ -1745,7 +1658,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:58.932Z"
+                                "lastUpdated": "2021-06-18T08:17:03.747Z"
                             },
                             "19": {
                                 "active": false,
@@ -1759,7 +1672,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:58.932Z"
+                                "lastUpdated": "2021-06-18T08:17:03.747Z"
                             },
                             "20": {
                                 "active": false,
@@ -1773,7 +1686,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:58.932Z"
+                                "lastUpdated": "2021-06-18T08:17:03.747Z"
                             },
                             "21": {
                                 "active": false,
@@ -1787,7 +1700,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:58.932Z"
+                                "lastUpdated": "2021-06-18T08:17:03.747Z"
                             },
                             "22": {
                                 "active": false,
@@ -1801,7 +1714,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:58.527Z"
+                                "lastUpdated": "2021-06-18T08:17:03.373Z"
                             },
                             "23": {
                                 "active": false,
@@ -1815,7 +1728,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:58.529Z"
+                                "lastUpdated": "2021-06-18T08:17:03.374Z"
                             },
                             "24": {
                                 "active": false,
@@ -1829,7 +1742,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:58.529Z"
+                                "lastUpdated": "2021-06-18T08:17:03.374Z"
                             },
                             "25": {
                                 "active": false,
@@ -1843,7 +1756,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:58.529Z"
+                                "lastUpdated": "2021-06-18T08:17:03.374Z"
                             },
                             "26": {
                                 "active": false,
@@ -1857,7 +1770,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:58.529Z"
+                                "lastUpdated": "2021-06-18T08:17:03.374Z"
                             },
                             "27": {
                                 "active": false,
@@ -1871,7 +1784,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:58.529Z"
+                                "lastUpdated": "2021-06-18T08:17:03.374Z"
                             },
                             "28": {
                                 "active": false,
@@ -1885,7 +1798,7 @@
                                     "vaneDir": "auto",
                                     "fanSpeed": "auto"
                                 },
-                                "lastUpdated": "2021-06-01T16:05:58.529Z"
+                                "lastUpdated": "2021-06-18T08:17:03.374Z"
                             }
                         },
                         "prohibits": {
@@ -1908,16 +1821,12 @@
                         "prohibitsChanged": 0,
                         "holdChanged": 0,
                         "hasElectricHeatingOption": false,
-                        "rssi": {
-                            "rssi": -44,
-                            "string": "Very strong",
-                            "image": "images/signal-verystrong-ondark-50x50.svg"
-                        },
+                        "rssi": {},
                         "ledDisabled": false,
                         "cryptoSerial": "0123535ba500f889ee",
                         "cryptoKeySet": "F",
                         "timezone": "America/Los_Angeles",
-                        "lastAdapterUpdate": "2021-01-31 01:58:39.550141",
+                        "lastAdapterUpdate": "2021-06-13 04:45:12.633981",
                         "firmwareVersion": "02.06.03",
                         "autoModeEnabled": true,
                         "roomTempOffset": 0,
@@ -1981,12 +1890,13 @@
                             "minimum_heat_temp": 10
                         },
                         "sendDesiredConditionsPending": false,
-                        "sendDesiredConditionsTime": "2021-06-01T16:05:59.407Z",
+                        "sendDesiredConditionsTime": "2021-06-18T08:17:03.319Z",
                         "systemChangeoverEnabled": false,
                         "minCoolSetpoint": 16,
                         "maxHeatSetpoint": 31,
                         "address": "192.168.1.68",
-                        "kumoSensorSettings": null
+                        "kumoSensorSettings": null,
+                        "optimalStart": false
                     }
                 },
                 "children": [],
@@ -2029,12 +1939,12 @@
                             },
                             "setting": {
                                 "more": {
-                                    "operation_mode_text": "Cool",
+                                    "operation_mode_text": "Heat",
                                     "fan_speed_text": "Auto",
                                     "air_direction_text": "Auto",
                                     "power_on": true
                                 },
-                                "_created": 1622563561399,
+                                "_created": 1624004225479,
                                 "spHeat": 17,
                                 "spCool": 24,
                                 "power": 1,
@@ -2067,12 +1977,12 @@
                             },
                             "setting": {
                                 "more": {
-                                    "operation_mode_text": "Cool",
+                                    "operation_mode_text": "Heat",
                                     "fan_speed_text": "Auto",
                                     "air_direction_text": "Auto",
                                     "power_on": true
                                 },
-                                "_created": 1622563561400,
+                                "_created": 1624004225479,
                                 "spHeat": 17,
                                 "spCool": 24,
                                 "power": 1,
@@ -2108,9 +2018,9 @@
                                     "operation_mode_text": "Cool",
                                     "fan_speed_text": "Auto",
                                     "air_direction_text": "Auto",
-                                    "power_on": true
+                                    "power_on": false
                                 },
-                                "_created": 1622563561400,
+                                "_created": 1624004225480,
                                 "spHeat": 24,
                                 "spCool": 24,
                                 "power": 0,
@@ -2125,10 +2035,10 @@
             }
         ],
         "level": 1,
-        "lastUpdate": 1622652888266,
+        "lastUpdate": 1626048921493,
         "id": "1611875421386-629929841",
         "label": "Home",
-        "version": 181
+        "version": 198
     },
     "no device token"
 ]
